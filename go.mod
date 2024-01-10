@@ -1,3 +1,3 @@
-module github.com/donserious/version
+module github.com/version
 
 go 1.20
